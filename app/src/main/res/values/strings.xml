@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EzFoodApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="what_would_like_to_eat">What Would like to Eat</string>
+    <string name="instructions">Instructions:</string>
+    <string name="area_palestine">Area:Palestine</string>
+    <string name="category_beef">Category:Beef</string>
+    <string name="categoryname">CategoryName</string>
+</resources>
